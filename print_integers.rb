@@ -5,10 +5,6 @@
 
   integers = [1, 5, 2, 1, 10]
   result_1 = integers.length + 1
-  puts result_1
-
-  integers = [1, 5, 2, 1, 10]
-  result_2 = puts integers.length - 1
-  puts result_2
-
-  puts "#{result_1}, " + "#{result_2}."
+  result_2 = integers.length - 1
+  
+  print "above: #{result_1}," "below: #{result_2}"
