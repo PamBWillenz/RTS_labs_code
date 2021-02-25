@@ -10,6 +10,7 @@
   result_3 = "above: #{result_1}," " " "below: #{result_2}"
   puts result_3
 
+  # => above: 6, below: 4
 
 
 

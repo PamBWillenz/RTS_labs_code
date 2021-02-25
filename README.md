@@ -1,9 +1,11 @@
 # RTS_labs_code
-Coding exercises
+**Coding exercises**
 
-- rotate_letters
-* run `rotate_letters.rb` in the terminal
+**Language - Ruby**
 
-- print_integers
-* run code in irb
+# rotate_letters
+* run `rotate_letters.rb` in the terminal if you have a ruby environment
+
+# print_integers
+* run `print_integers.rb` in the terminal if you have a ruby environment
 

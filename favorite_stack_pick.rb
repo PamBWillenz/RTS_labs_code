@@ -4,5 +4,5 @@
 # *************** ANSWER *****************
 
 # I pick Ruby on Rails as my favorite framework/language/platform. 
-# I wish RoR was able to optimize the frontend out of the box better (think hotwire) 
-# without relying on JS frameworks.
+# I wish RoR was had a gem that optimized the frontend better than bootstrap
+# (think hotwire) without relying on JS frameworks.
