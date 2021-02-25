@@ -7,4 +7,9 @@
   result_1 = integers.length + 1
   result_2 = integers.length - 1
   
-  print "above: #{result_1}," "below: #{result_2}"
+  result_3 = "above: #{result_1}," " " "below: #{result_2}"
+  puts result_3
+
+
+
+
