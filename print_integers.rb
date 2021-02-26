@@ -30,12 +30,12 @@ end
   
 
   array_sort = 
-  ArraySort.new([1, 5, 10, 15, 20, 25, 30, 35, 36, 37, 38, 40, 42, 2, 1, 10])
+  ArraySort.new([1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 14, 15, 80])
   
-  array_sort.numbers(6)
-  array_sort.numbers(3)
+  array_sort.numbers(9)
+  array_sort.numbers(2)
   array_sort.numbers(10)
 
-  # => above: 12 below: 4
-  # => above: 13 below: 3
-  # => above: 10 below: 4
+  # => above: 6 below: 7
+  # => above: 12 below: 1
+  # => above: 5 below: 8
